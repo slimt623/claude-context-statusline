@@ -6,6 +6,8 @@
     "name": "Tongayi Choto"
   },
   "license": "MIT",
+  "repository": "https://github.com/slimt623/claude-context-statusline",
+  "homepage": "https://github.com/slimt623/claude-context-statusline#readme",
   "keywords": [
     "claude-code",
     "statusline",
