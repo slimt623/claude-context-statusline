@@ -1,0 +1,16 @@
+{
+  "name": "claude-context-statusline",
+  "version": "1.0.0",
+  "description": "Live context window usage in your Claude Code status line: progress bar, compact warnings, model, project, and session cost.",
+  "author": {
+    "name": "Tongayi Choto"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "statusline",
+    "context",
+    "tokens",
+    "usage"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "claude-context-statusline",
+  "owner": {
+    "name": "Tongayi Choto"
+  },
+  "plugins": [
+    {
+      "name": "claude-context-statusline",
+      "source": "./",
+      "description": "Live context window usage in your Claude Code status line: progress bar, compact warnings, model, project, and session cost."
+    }
+  ]
+}
